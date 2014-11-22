@@ -1,0 +1,12 @@
+{
+  "name": "example2",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "nib": "*",
+    "stylus": "*",
+    "morgan": "*"
+  }
+}
