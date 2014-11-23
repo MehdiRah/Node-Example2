@@ -2,6 +2,7 @@
   "name": "example2",
   "version": "0.0.1",
   "private": "true",
+  "repository": "https://github.com/MehdiRah/Node-Example2",
   "dependencies": {
     "express": "*",
     "jade": "*",
